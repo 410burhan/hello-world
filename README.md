@@ -1,2 +1,2 @@
 # hello-world
-week13 lab1
+This is for wek 13 lab 1. 
